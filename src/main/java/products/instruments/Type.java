@@ -4,6 +4,10 @@ public enum Type {
 
     STRING,
     PERCUSSION,
-    BRASS
+    BRASS,
+    ELECTRIC,
+    PITCHED,
+    UNPITCHED,
+    WOODWIND
 
 }
