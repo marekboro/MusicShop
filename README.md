@@ -48,7 +48,7 @@ These items might be instruments, which someone may play e.g. guitar, saxophone,
 ### Planning:
 
 - Diagram v1:
-![image]()  
+![image](musicShopV1.png)  
 
 - Diagram v2:
 ![image]()  
