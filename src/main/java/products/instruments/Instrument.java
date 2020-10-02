@@ -1,4 +1,4 @@
-package items;
+package products.instruments;
 
 public abstract class Instrument {
 
